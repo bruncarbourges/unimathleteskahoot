@@ -4,7 +4,7 @@ mathleteskahoot is a Python library that renders graphs used in the Uni High Mat
 
 ## Installation
 
-Normally, you'd use the package manager [pip] (https://pip.pypa.io/en/stable/) to install mathleteskahoot…
+Normally, you'd use the package manager [pip] (https://pip.pypa.io/en/stable/) to install a Python package…
 
 ```bash
 pip install mathleteskahoot
