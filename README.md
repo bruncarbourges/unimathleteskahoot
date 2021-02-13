@@ -4,11 +4,12 @@ mathleteskahoot is a Python library that renders graphs used in Uni High Mathlet
 
 ## Installation
 
-Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install mathleteskahoot.
+Normally, you'd use the package manager [pip] (https://pip.pypa.io/en/stable/) to install mathleteskahoot…
 
 ```bash
 pip install mathleteskahoot
 ```
+mathleteskahoot isn't on PyPI though.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
