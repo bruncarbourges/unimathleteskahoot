@@ -1,6 +1,6 @@
 # mathleteskahoot
 
-mathleteskahoot is a Python library that renders graphs used in Uni High Mathletes' Kahoot quizzes.
+mathleteskahoot is a Python library that renders graphs used in the Uni High Mathletes' Kahoot quizzes.
 
 ## Installation
 
